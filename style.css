@@ -1,0 +1,95 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.menuAccueil{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1{
+    color:rgba(70,31,10,255);
+    margin-bottom: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.title{
+    font-size: 30px;
+}
+
+.btn{
+    background-color: rgba(70,31,10,255);
+}
+.reservation{
+    background-color: rgba(219,119,5,255);
+    height: 60vh;
+}
+#logo{
+    width: 70px;
+    height: 70px;
+}
+.bgResto{
+    background-color: rgba(70,31,10,255);
+}
+.color1{
+    color:rgba(219,119,5,255)
+}
+svg{
+    color: white;
+    width: 30px;
+    height: 30x;
+    
+}
+.imagePre{
+    width: 380px;
+    height: 330px;
+    background-color: rgb(238, 233, 224);
+    border-radius: 20px;
+    box-shadow: 4px 4px rgb(23, 16, 16);
+    margin-bottom: 10px;
+
+}
+.imagePre:hover{
+    opacity: 0.5;
+}
+.carousel-item>img{
+    height: 650px;
+    width: 100%;
+}
+form{
+    width:300px;
+    
+}
+.logo2{
+    height: 200px;
+    width: 200px;
+}
+form{
+    background-color:rgb (255,181,0) ;
+}
+/*------------formulaire----------*/
+footer{
+    border: 0.5px solid black;
+    background-color: rgba(70,31,10,255);
+    color:azure;
+    position: relative;
+    bottom: 0px;
+  
+}
+.imageCarousel{
+    background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    width: 100%;
+}
+.img2{
+    background-position-y: bottom;
+}
+/*---Flex-Box---*/
+
+h4{
+    color: rgb(199, 152, 22);
+}
+
+footer{
+    padding: 50px 0px;
+}
