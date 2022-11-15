@@ -124,9 +124,17 @@ h4{
 footer{
     padding: 50px 0px;
 }
+.icons-footer{
+    gap: 30px;
+    display: flex;
+    justify-content: center;
+}
 @media screen and (max-width:  1000px){
     .imagePre{
         width: 200px;
         height: 200px;
+    }
+    .footer-title{
+        font-size: 10px;
     }
 }
